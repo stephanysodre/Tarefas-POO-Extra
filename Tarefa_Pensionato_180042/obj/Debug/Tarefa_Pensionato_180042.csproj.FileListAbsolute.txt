@@ -1,0 +1,2 @@
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa_Pensionato_180042\obj\Debug\Tarefa_Pensionato_180042.csprojAssemblyReference.cache
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa_Pensionato_180042\obj\Debug\Tarefa_Pensionato_180042.csproj.CoreCompileInputs.cache

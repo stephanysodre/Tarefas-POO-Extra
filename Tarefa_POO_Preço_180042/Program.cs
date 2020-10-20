@@ -14,8 +14,8 @@ class Produto{
         Produto [] vect= new Produto [n];
         //Utilização do comando for para percorrer o vetor
         for (int i  = 0; i < n; i++) {
-            string name= Console.ReadLine();
-            double price= double.Parse(Console.ReadLine(), CultureInfo, InvariantCulture);                
+            string Name= Console.ReadLine();
+            double Price= double.Parse(Console.ReadLine(), CultureInfo, InvariantCulture);                
             //Entrada dos elementos no vetor pelo usuário
             vect[ i ] = new Produto {Name= name, Price= price}; 
         }
