@@ -1,0 +1,2 @@
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa-Salario-POO\obj\Debug\Tarefa-Salario-POO.csprojAssemblyReference.cache
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa-Salario-POO\obj\Debug\Tarefa-Salario-POO.csproj.CoreCompileInputs.cache

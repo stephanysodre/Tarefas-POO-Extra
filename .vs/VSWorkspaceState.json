@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Tarefa_POO_Preço_180042"
+    "\\Tarefa-POO-Exemplo",
+    "\\Tarefa-Salario-POO",
+    "\\Tarefa_Pensionato_180042",
+    "\\tarefa_salario_atividadefinal"
   ],
-  "SelectedNode": "\\Tarefa_POO_Preço_180042\\Produto.cs",
+  "SelectedNode": "\\Tarefa-Salario-POO\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

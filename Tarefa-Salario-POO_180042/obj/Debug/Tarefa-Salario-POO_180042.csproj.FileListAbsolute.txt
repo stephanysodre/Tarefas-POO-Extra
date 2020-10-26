@@ -1,0 +1,7 @@
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa-Salario-POO_180042\bin\Debug\Tarefa-Salario-POO_180042.exe.config
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa-Salario-POO_180042\bin\Debug\Tarefa-Salario-POO_180042.exe
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa-Salario-POO_180042\bin\Debug\Tarefa-Salario-POO_180042.pdb
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa-Salario-POO_180042\obj\Debug\Tarefa-Salario-POO_180042.csprojAssemblyReference.cache
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa-Salario-POO_180042\obj\Debug\Tarefa-Salario-POO_180042.csproj.CoreCompileInputs.cache
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa-Salario-POO_180042\obj\Debug\Tarefa-Salario-POO_180042.exe
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa-Salario-POO_180042\obj\Debug\Tarefa-Salario-POO_180042.pdb
