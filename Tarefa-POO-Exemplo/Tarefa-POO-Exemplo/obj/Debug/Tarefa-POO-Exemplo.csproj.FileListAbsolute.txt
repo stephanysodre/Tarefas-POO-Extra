@@ -1,0 +1,7 @@
+C:\Users\Luís Guilherme\source\repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa-POO-Exemplo\Tarefa-POO-Exemplo\bin\Debug\Tarefa-POO-Exemplo.exe.config
+C:\Users\Luís Guilherme\source\repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa-POO-Exemplo\Tarefa-POO-Exemplo\bin\Debug\Tarefa-POO-Exemplo.exe
+C:\Users\Luís Guilherme\source\repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa-POO-Exemplo\Tarefa-POO-Exemplo\bin\Debug\Tarefa-POO-Exemplo.pdb
+C:\Users\Luís Guilherme\source\repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa-POO-Exemplo\Tarefa-POO-Exemplo\obj\Debug\Tarefa-POO-Exemplo.csprojAssemblyReference.cache
+C:\Users\Luís Guilherme\source\repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa-POO-Exemplo\Tarefa-POO-Exemplo\obj\Debug\Tarefa-POO-Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Luís Guilherme\source\repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa-POO-Exemplo\Tarefa-POO-Exemplo\obj\Debug\Tarefa-POO-Exemplo.exe
+C:\Users\Luís Guilherme\source\repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa-POO-Exemplo\Tarefa-POO-Exemplo\obj\Debug\Tarefa-POO-Exemplo.pdb
