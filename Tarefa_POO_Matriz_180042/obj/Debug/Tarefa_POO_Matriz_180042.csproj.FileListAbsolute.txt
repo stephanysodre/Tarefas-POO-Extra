@@ -1,0 +1,6 @@
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa_POO_Matriz_180042\bin\Debug\Tarefa_POO_Matriz_180042.exe.config
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa_POO_Matriz_180042\bin\Debug\Tarefa_POO_Matriz_180042.exe
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa_POO_Matriz_180042\bin\Debug\Tarefa_POO_Matriz_180042.pdb
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa_POO_Matriz_180042\obj\Debug\Tarefa_POO_Matriz_180042.csproj.CoreCompileInputs.cache
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa_POO_Matriz_180042\obj\Debug\Tarefa_POO_Matriz_180042.exe
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa_POO_Matriz_180042\obj\Debug\Tarefa_POO_Matriz_180042.pdb
