@@ -1,0 +1,2 @@
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa_Herança_09-11-2020\obj\Debug\Tarefa_Herança_09-11-2020.csprojAssemblyReference.cache
+C:\Users\Luís Guilherme\Source\Repos\luiscandidohonorio\Tarefas-POO-Extra\Tarefa_Herança_09-11-2020\obj\Debug\Tarefa_Herança_09-11-2020.csproj.CoreCompileInputs.cache
